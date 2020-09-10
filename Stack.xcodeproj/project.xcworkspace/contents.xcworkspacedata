@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Stack/main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Stack/Node.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Stack/Stack.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Stack/Stack.hpp">
+   </FileRef>
+   <FileRef
+      location = "self:Stack.xcodeproj">
+   </FileRef>
+</Workspace>
